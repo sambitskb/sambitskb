@@ -3,9 +3,7 @@
 - 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning Java Selenium Automation
 - 💞️ I’m looking to collaborate on Web Application, API Testing
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me sambitkbiswal@gmail.com
 
 <!---
 sambitskb/sambitskb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
